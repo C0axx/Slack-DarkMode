@@ -1,5 +1,9 @@
 # Personal version of `https://github.com/widget-/slack-black-theme`
 
+
+# Preview 
+
+
 # Installing into Slack
 
 Find your Slack's application directory.
