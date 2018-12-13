@@ -3,7 +3,7 @@
 
 # Preview 
 
-
+![alt text](https://raw.githubusercontent.com/C0axx/slack/master/Preview.PNG)
 # Installing into Slack
 
 Find your Slack's application directory.
