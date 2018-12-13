@@ -60,3 +60,9 @@ document.addEventListener("DOMContentLoaded", function() {
    });
 });
 ```
+
+
+# Sidebar colors
+
+#080808,#080808,#080808,#8BE9FD,#6272A4,#FFFFFF,#50FA7B,#FF5555
+
