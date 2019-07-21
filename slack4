@@ -154,7 +154,7 @@ div.c-message:hover {
     color: white !important;
 }
 a {
-    color: #36D4F6!important;
+    color: #f20000!important;
 }
 .comment .app_preview_link_slug,
 .comment .internal_member_link,
@@ -429,14 +429,14 @@ p-search_filter__date:first-child {
     border-bottom: 1px solid #5F5F5F !important;
 }
 .p-search_filter__more_link {
-    color: #36D4F6;
+    color: #f20000;
     font-size: 13px;
     margin-top: 4px;
 }
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #36D4F6;
+    color: #f20000;
     outline: none;
     text-decoration: underline;
 }
@@ -541,7 +541,7 @@ p-search_filter__date:first-child {
     color: white !important;
 }
 .p-file_details__share_channel {
-    color: #36D4F6;
+    color: #f20000;
 }
 .p-file_details__share_divider hr {
     border-color: #4B4B4B;
@@ -550,10 +550,10 @@ p-search_filter__date:first-child {
     border-bottom: 1px solid #4B4B4B;
 }
 .p-file_details__header_back:hover {
-    color: #36D4F6;
+    color: #f20000;
 }
 .c-deprecated_button--link{
-    color: #36D4F6 !important;
+    color: #f20000 !important;
 }
 .p-file_list__file.c-pillow_file_container--full_width:hover {
     border-bottom: 1px solid #4B4B4B;
@@ -569,7 +569,7 @@ input.c-input_select__filter_input {
     background: transparent !important;
 }
 .c-search_autocomplete__suggestion_item:hover {
-    background: #2D9EE0;
+    background: #f20000;
     color: white;
 }
 .texty_legacy.texty_single_line_input.focus,
@@ -612,7 +612,7 @@ input.c-input_select__filter_input {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-    color: #36D4F6 !important;
+    color: #f20000 !important;
     border: none !important;
 }
 .c-message_group .c-message_group__header:focus .c-channel_name,
@@ -621,7 +621,7 @@ input.c-input_select__filter_input {
 .c-message_group:hover .c-message_group__header .c-channel_name,
 .c-message_group:hover .c-message_group__header .c-channel_name__team_name,
 .c-message_group:hover .c-message_group__header .c-message_group__header_date {
-    color: #36D4F6 !important;
+    color: #f20000 !important;
     border: none !important;
 }
 .p-search_filter__date:first-child {
@@ -645,7 +645,7 @@ a:hover {
     text-decoration: none !important;
 }
 .c-search__input_box__clear {
-    color: #36D4F6 !important;
+    color: #f20000 !important;
 }
 .c-search_modal .c-search__input_box__clear {
     border-right: 1px solid #4B4B4B !important;
@@ -697,7 +697,7 @@ code {
     font-weight:bold;
 }
 .c-link--button {
-    color: #36D4F6 !important;
+    color: #f20000 !important;
 }
 .p-file_upload_dialog__section input.c-input_text:focus {
     background: transparent !important;
@@ -1022,7 +1022,7 @@ color:#f20000 !important
                     background: black !important;
                 }
                 .p-threads_flexpane__header_permalink, .p-threads_flexpane__header_channel_name{
-                    color: #36D4F6!important;
+                    color: #f20000!important;
                 }
                 .c-message .c-button--primary{
                     background-color: #008952;
@@ -1092,7 +1092,7 @@ color:#f20000 !important
                                                 border-right: 1px solid #000;}
 
                                         .c-channel_name__text--inline{
-                                        color: #36D4F6!important;
+                                        color: #f20000!important;
                                     }
                                     .p-threads_view__divider_label {
                                         background: #323232; color:white;}
@@ -2245,7 +2245,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
         background: #494949 !important;}
         .p-classic_nav__model__title__info__topic:hover .p-classic_nav__model__title__info__topic__edit, .p-classic_nav__model__title__info__topic__edit.c-button--focus-visible {
     display: block;
-    color: #ffb99c !important;}
+    color: #f20000 !important;}
     .p-classic_nav__right__search {
     flex: 1;
     display: flex;
