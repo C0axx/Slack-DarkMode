@@ -1236,7 +1236,7 @@ color:#f20000 !important
     color:white !important
     }
     .c-message_list__unread_divider__label {
-   background: #f81111;
+   background: #f20000;
     border: 1px solid transparent;
     text-transform: capitalize;
     box-shadow: 0 8px 16px rgba(0,0,0,0.4);}
