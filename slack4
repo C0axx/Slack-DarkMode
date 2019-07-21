@@ -786,7 +786,7 @@ a.file_download_link:hover {
     color: white !important;
 }
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name{
-    border-left: 2px solid #ff5656;
+    border-left: 2px solid #f20000;
     padding-left: 6px;
     height: 20px;
     overflow: hidden;
@@ -1047,7 +1047,7 @@ color:#f20000 !important
                     .sli_briefing_preview_container::after, .sli_briefing_preview_container::before{background:#222222; border:1px solid #737373;}
                     .sli_briefing_preview__description_text{color:white;}
                     .sli_briefing_preview__description_text b {
-                        color: #2dffd1;    font-weight: 600;}
+                        color: #f20000;    font-weight: 600;}
                         .sli_briefing__message ts-message:not(.for_mention_display):not(.for_search_display):not(.for_top_results_search_display):not(.for_star_display){
                             background-color: #313131;
                             border: 1px solid #000;
